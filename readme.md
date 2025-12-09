@@ -1,15 +1,5 @@
 ![](./img/head.png)
 
------------------
-
-![](./img/fl.png)
-
-abu能够帮助用户自动完善策略，主动分析策略产生的交易行为，智能拦截策略生成的容易失败的交易单。
-
-现阶段的量化策略还是人工编写的代码，abu量化交易系统的设计将会向着由计算机自动实现整套流程的方向迈进，包括编写量化策略本身。
-
-abupy的设计目标是：用户只需要提供一些简单的种子策略，计算机在这些种子基础上不断自我学习、自我成长，创造出新的策略，并且随着时间序列数据不断智能调整策略的参数。
-
 ### 索引
 
 | 内容 | 位置 | 
@@ -19,6 +9,91 @@ abupy的设计目标是：用户只需要提供一些简单的种子策略，计
 | 阿布量化非编程界面操作 | abupy_ui目录 |
 | 《量化交易之路》示例代码 | ipython／python目录| 
 | 《机器学习之路》示例代码 | https://github.com/maxmon/abu_ml | 
+
+
+###  🏆 [览器访问网址: https://www.abuquant.com](https://www.abuquant.com)
+
+1. 🇨🇳 [沪深市场量化示例分析列表:](https://www.abuquant.com/cn1/cn_symbol_list.html)
+
+	* 🇨🇳 [上证指数周报示例量化分析:](https://www.abuquant.com/abu_context/output_cn_week1/report/sh000001/index.html)
+	* 🇨🇳 [上证指数日报示例量化分析:](https://www.abuquant.com/abu_context/output_cn_day1/report/sh000001/index.html)
+
+
+2. 🇺🇸 [美股市场量化示例分析列表:](https://www.abuquant.com/us1/us_symbol_list.html)
+
+	* 🇺🇸 [阿里巴巴-量化研究报告:](https://www.abuquant.com/abu_context/output_us_week1/report/usBABA/index.html)
+
+3. 🚩 [港股市场量化示例分析列表:](https://www.abuquant.com/hk1/hk_symbol_list.html)
+	* 🚩 [小米集团-量化研究报告:](https://www.abuquant.com/abu_context/output_hk_week1/report/hk01810/index.html)
+
+
+
+4. 📡 [特征交织信号策略:](https://www.abuquant.com/find_itl.html)
+
+
+	* 📐[上升三角整理向上突破:](https://www.abuquant.com/itl_feature1/pattern_90triangle_up_up_break_symbol_list.html)
+	* 🌊[波浪理论回调浪c点:](https://www.abuquant.com/itl_feature1/dn_5wr_c_revert_symbol_list.html)
+
+	* ✂️[升趋势向下破位风险:](https://www.abuquant.com/itl_feature1/trend_breakthrough_risk_symbol_list.html)
+
+	* 🐶[c点将上涨到d点完成降赛福:](https://www.abuquant.com/itl_feature1/dn_cypher_xabc_predict_symbol_list.html)
+	* ☯[缠论中继❸买向上:](https://www.abuquant.com/itl_feature1/dn_right_tangle_three_symbol_list.html)
+
+
+	* 🚩[降楔型整理向上突破:](https://www.abuquant.com/itl_feature1/pattern_wedge_dn_break_symbol_list.html)
+	* 🦇[蝙蝠到达升蝙蝠d点:](https://www.abuquant.com/itl_feature1/up_bat_abcd_regular_symbol_list.html)
+
+	* ☯️[缠论中继❷买向上:](https://www.abuquant.com/itl_feature1/dn_right_tangle_two_symbol_list.html)
+
+	* 🌊[波浪理论回调浪反转:](https://www.abuquant.com/itl_feature1/up_5wr_c_revert_symbol_list.html)
+	
+	* ⚔️[趋势线突破机会:](https://www.abuquant.com/itl_feature1/trend_breakthrough_chance_symbol_list.html)
+
+
+
+	* ☯️[缠论中继❸卖向下:](https://www.abuquant.com/itl_feature1/up_right_tangle_three_symbol_list.html)
+
+	* 🐶[降赛福d点完成:](https://www.abuquant.com/itl_feature1/dn_cypher_xabc_predict_symbol_list.html)
+
+	* ▴▲▴[头肩顶向下突破:](https://www.abuquant.com/itl_feature1/trend_support_encounter_dn_symbol_list.html)
+	* ✂️[升趋势强支撑破位可能:](https://www.abuquant.com/itl_feature1/pattern_head_top_break_symbol_list.html)
+
+	* 🌊[上涨回调浪中继b:](https://www.abuquant.com/itl_feature1/dn_5wr_b_pos_symbol_list.html)
+
+	* 🦊[降伽利d点完成:](https://www.abuquant.com/itl_feature1/dn_gartley_abcd_predict_symbol_list.html)
+
+	* ☯️[缠论中继❷卖向下:](https://www.abuquant.com/itl_feature1/up_right_tangle_two_symbol_list.html)
+	* ✂️[升趋势强支撑破位可能:](https://www.abuquant.com/itl_feature1/pattern_head_top_break_symbol_list.html)
+
+	* ❐[下跌矩形达成下跌目标:](https://www.abuquant.com/itl_feature1/pattern_rect_dn_up_target_symbol_list.html)
+
+	* 🌊[波浪理论下跌中继c:](https://www.abuquant.com/itl_feature1/up_5wr_c_regular_symbol_list.html)
+
+
+	* 🦀️[升螃蟹d点完成:](https://www.abuquant.com/itl_feature1/up_crab_abcd_predict_symbol_list.html)
+	* ⚑[降旗形整理向上突破:](https://www.abuquant.com/itl_feature1/pattern_flag_dn_break_symbol_list.html)
+
+	* ☯[缠论反转❶买向上:](https://www.abuquant.com/itl_feature1/dn_lr_tg_one_symbol_list.html)
+
+	* 🌊[波浪理论上涨中继c:](https://www.abuquant.com/itl_feature1/dn_5wr_c_regular_symbol_list.html)
+
+
+	* 🦇[升蝙蝠第3反弹目标:](https://www.abuquant.com/itl_feature1/up_bat_hm_t3_symbol_list.html)
+	* 🚩[升楔型达成整理下跌目标:](https://www.abuquant.com/itl_feature1/pattern_wedge_up_target_symbol_list.html)
+
+	* ☯[缠论中枢b刚完成:](https://www.abuquant.com/itl_feature1/up_left_ds_large_tg_one_symbol_list.html)
+
+	
+5. 🅚[K线复合信号策略:](https://www.abuquant.com/find_kc.html)
+
+
+	* [上涨Pinbar组合:](https://www.abuquant.com/kc_feature1/up_pinbar_symbol_list.html)
+	* [倾盆大雨:](https://www.abuquant.com/kc_feature1/dn_down_pour_symbol_list.html)
+	* [上涨Pinbar组合:](https://www.abuquant.com/kc_feature1/up_pinbar_symbol_list.html)
+	* [低档五阳线:](https://www.abuquant.com/kc_feature1/up_lp_5yang_symbol_list.html)
+
+	* [上涨身怀六甲:](https://www.abuquant.com/kc_feature1/up_pregnant_6m_symbol_list.html)
+	* [定海神针:](https://www.abuquant.com/kc_feature1/up_1needle_symbol_list.html)
 
 ### 特点
 
@@ -36,22 +111,41 @@ abupy的设计目标是：用户只需要提供一些简单的种子策略，计
 * 分离基础策略和策略优化监督模块
 * 提高灵活度和适配性
 
+* 量化系统
+
+阿布量化综合AI大数据系统, K线形态系统, 缠论，波浪理论，谐波理论，突破，整理形态分析（头肩形态，三头，三角，旗形，楔形，矩形），
+经典指标系统, 走势趋势分析系统, 时间序列维度系统, 统计概率系统, 传统均线系统对投资品种进行深度量化分析, 彻底跨越用户复杂的代码量化阶段, 更适合普通人群使用, 迈向量化2.0时代.
+
+* 量化模型
+
+上述系统中结合上百种子量化模型, 如: 金融时间序列损耗模型, 深度形态质量评估模型, 多空形态组合评定模型, 多头形态止损策略模型, 空头形态回补策略模型, 大数据K线形态历史组合拟合模型, 交易持仓心态模型, 多巴胺量化模型, 惯性残存阻力支撑模型, 多空互换报复概率模型, 强弱对抗模型, 趋势角度变化率模型, 联动分析模型, 时间序列的过激反应模型, 迟钝报复反应模型, 趋势启动速度模型, 配对对冲模型等.
+
+* AI量化
+
+阿布量化针对AI人工智能从底层开发算法, 构建适合量化体系的人工智能AI系统, 训练了数个从不同角度识别量化特征的评分模型，整体上分为三个系别：物理模型组、多巴胺生物模型组、量化形态模型组。不同系别模型群从不同角度(主要物理交易实体分析、人群心理、图表等三个方向)评估走势，系别的模型群是由若干个独有的识别算法和参数遗传淘汰，组成族群，加权投票评分. 
+
+* 量化策略
+
+阿布量化结合了传统基于代码策的量化系统, 对未来择时信号发出时机的预判, 系统基于数百种简单种子交易策略，衍生出更多的量化交易策略新策略在这些种子基础上不断自我学习、自我成长，不断分裂，适者生存，淘汰选择机制下繁衍，目前应用的量化买入卖出信号策略共计18496种。
+
+* 量化应用
+
+阿布量化结合多种量化分析数据构建了数百种量化应用, 
+如: AI高能预警, AI高光时刻, 智能预测涨跌幅, 下跌五浪量化, 上涨五浪量化, 缠论，波浪理论，谐波理论，突破，整理形态分析（头肩形态，三头，三角，旗形，楔形，矩形），
+阻力支撑强度分析, 上升三角形突破, 下降三角形, 三重底 (头肩底), 三重顶 (头肩顶), 圆弧顶, 圆弧底, 乌云盖顶形态, 上升三部曲形态, 好友反攻形态, 单针探底形态, 射击之星形态, 多方炮形态, 上涨镊子线, 向上突破箱体, 跳空突破缺口, 黄金分割线量化, 趋势跟踪信号, 均值回复信号, 止损风险控制量化, 止盈利润保护量化, 综合指标分析等.
+
+
 ## 安装
 
 ### 部署
 
-推荐使用Anaconda部署Python环境，详见 [量化环境部署](http://www.abuquant.com/lecture/lecture_0.html)
+推荐使用Anaconda部署Python环境，详见 [量化环境部署](https://github.com/bbfamily/abu/blob/master/abupy_lecture/0-abupy%E9%87%8F%E5%8C%96%E7%8E%AF%E5%A2%83%E9%83%A8%E7%BD%B2(ABU%E9%87%8F%E5%8C%96%E4%BD%BF%E7%94%A8%E6%96%87%E6%A1%A3).ipynb)
 
 ### 测试
 
 ```python
 import abupy
 ```
-## 界面操作（非编程）
-
-![](./abupy_ui/gif/loop_back.gif)
-
-[更多界面操作示例](./abupy_ui/readme.md)
 
 ## 使用文档
 
@@ -73,7 +167,7 @@ import abupy
 >
 >在错的时间，遇见错的人(股票)，是一种无奈 
 
-[详细阅读](http://www.abuquant.com/lecture/lecture_1.html)
+[详细阅读](https://github.com/bbfamily/abu/blob/master/abupy_lecture/1-%E6%8B%A9%E6%97%B6%E7%AD%96%E7%95%A5%E7%9A%84%E5%BC%80%E5%8F%91(ABU%E9%87%8F%E5%8C%96%E4%BD%BF%E7%94%A8%E6%96%87%E6%A1%A3).ipynb)
 
 ### 2: 择时策略的优化
 
@@ -85,7 +179,7 @@ import abupy
 
 ![](./img/img1.png)
 
-[详细阅读](http://www.abuquant.com/lecture/lecture_2.html)
+[详细阅读](https://github.com/bbfamily/abu/blob/master/abupy_lecture/2-%E6%8B%A9%E6%97%B6%E7%AD%96%E7%95%A5%E7%9A%84%E4%BC%98%E5%8C%96(ABU%E9%87%8F%E5%8C%96%E4%BD%BF%E7%94%A8%E6%96%87%E6%A1%A3).ipynb)
 
 ### 3: 滑点策略与交易手续费
 
@@ -107,7 +201,7 @@ import abupy
 | buy | 20160315 | usTSLA | 5.57 |
 | sell | 20160429 | usTSLA | 5.57 |
 
-[详细阅读](http://www.abuquant.com/lecture/lecture_3.html)
+[详细阅读](https://github.com/bbfamily/abu/blob/master/abupy_lecture/3-%E6%BB%91%E7%82%B9%E7%AD%96%E7%95%A5%E4%B8%8E%E4%BA%A4%E6%98%93%E6%89%8B%E7%BB%AD%E8%B4%B9(ABU%E9%87%8F%E5%8C%96%E4%BD%BF%E7%94%A8%E6%96%87%E6%A1%A3).ipynb)
 
 ### 4: 多支股票择时回测与仓位管理
 
@@ -120,7 +214,7 @@ import abupy
 
 ![](./img/img3.png)
 
-[详细阅读](http://www.abuquant.com/lecture/lecture_4.html)
+[详细阅读](https://github.com/bbfamily/abu/blob/master/abupy_lecture/4-%E5%A4%9A%E6%94%AF%E8%82%A1%E7%A5%A8%E6%8B%A9%E6%97%B6%E5%9B%9E%E6%B5%8B%E4%B8%8E%E4%BB%93%E4%BD%8D%E7%AE%A1%E7%90%86(ABU%E9%87%8F%E5%8C%96%E4%BD%BF%E7%94%A8%E6%96%87%E6%A1%A3).ipynb)
 
 ### 5: 选股策略的开发
 
@@ -130,9 +224,7 @@ import abupy
 2. 多个选股因子并行执行
 3. 使用并行来提升选股运行效率
 
-![](./img/img4.png)
-
-[详细阅读](http://www.abuquant.com/lecture/lecture_5.html)
+[详细阅读](https://github.com/bbfamily/abu/blob/master/abupy_lecture/5-%E9%80%89%E8%82%A1%E7%AD%96%E7%95%A5%E7%9A%84%E5%BC%80%E5%8F%91(ABU%E9%87%8F%E5%8C%96%E4%BD%BF%E7%94%A8%E6%96%87%E6%A1%A3).ipynb)
 
 ### 6: 回测结果的度量
 
@@ -142,9 +234,7 @@ import abupy
 2. 度量的可视化
 3. 扩展自定义度量类
 
-![](./img/img5.png)
-
-[详细阅读](http://www.abuquant.com/lecture/lecture_6.html)
+[详细阅读](https://github.com/bbfamily/abu/blob/master/abupy_lecture/6-%E5%9B%9E%E6%B5%8B%E7%BB%93%E6%9E%9C%E7%9A%84%E5%BA%A6%E9%87%8F(ABU%E9%87%8F%E5%8C%96%E4%BD%BF%E7%94%A8%E6%96%87%E6%A1%A3).ipynb)
 
 ### 7: 寻找策略最优参数和评分
 
@@ -156,7 +246,7 @@ import abupy
 4. 不同权重的评分
 5. 自定义评分类的实现
 
-[详细阅读](http://www.abuquant.com/lecture/lecture_7.html)
+[详细阅读](https://github.com/bbfamily/abu/blob/master/abupy_lecture/7-%E5%AF%BB%E6%89%BE%E7%AD%96%E7%95%A5%E6%9C%80%E4%BC%98%E5%8F%82%E6%95%B0%E5%92%8C%E8%AF%84%E5%88%86(ABU%E9%87%8F%E5%8C%96%E4%BD%BF%E7%94%A8%E6%96%87%E6%A1%A3).ipynb)
 
 ### 8: A股市场的回测
 
@@ -164,9 +254,7 @@ import abupy
 2. 涨跌停的特殊处理
 3. 对多组交易结果进行分析
 
-![](./img/img6.png)
-
-[详细阅读](http://www.abuquant.com/lecture/lecture_8.html)
+[详细阅读](https://github.com/bbfamily/abu/blob/master/abupy_lecture/8-A%E8%82%A1%E5%B8%82%E5%9C%BA%E7%9A%84%E5%9B%9E%E6%B5%8B(ABU%E9%87%8F%E5%8C%96%E4%BD%BF%E7%94%A8%E6%96%87%E6%A1%A3).ipynb)
 
 ### 9: 港股市场的回测
 
@@ -174,9 +262,7 @@ import abupy
 2. 优化策略，提高系统的稳定性
 3. 将优化策略的'策略'做为类装饰器进行封装
 
-![](./img/img7.png)
-
-[详细阅读](http://www.abuquant.com/lecture/lecture_9.html)
+[详细阅读](https://github.com/bbfamily/abu/blob/master/abupy_lecture/9-%E6%B8%AF%E8%82%A1%E5%B8%82%E5%9C%BA%E7%9A%84%E5%9B%9E%E6%B5%8B(ABU%E9%87%8F%E5%8C%96%E4%BD%BF%E7%94%A8%E6%96%87%E6%A1%A3).ipynb)
 
 ### 10: 比特币, 莱特币的回测
 
@@ -184,26 +270,7 @@ import abupy
 2. 比特币, 莱特币的走势可视化分析
 3. 比特币，莱特币市场的回测
 
-* 比特币loss10: [-26.895, -3.284] , top10：(4.182, 38.786]
-* 比特币最近一年风险下降：loss10: [-16.273, -2.783], top10：(3.948, 15.22]
-* 莱特币loss10: [-28.48, -4.1]， top10：(4.405, 41.083]
-* 莱特币最近一年继续呈现高风险loss10：[-22.823, -3.229] 高收益top10：(5.0606, 37.505]
-
-
-| btcchange | btc365change | ltcchange | ltc365change |
-| ------| ------ | ------ | ------ |
-| [-26.895, -3.284] | [-16.273, -2.783] | [-28.48, -4.1] | [-22.823, -3.229] |
-| (-3.284, -1.547] | (-2.783, -1.056] | (-4.1, -2.022] | (-3.229, -1.375] |
-| (-1.547, -0.8] | (-1.056, -0.424] | (-2.022, -0.922] | (-1.375, -0.655] |
-| (-0.8, -0.224] | (-0.424, -0.071] | (-0.922, -0.389] | (-0.655, -0.226] |
-| (-0.224, 0.143] | (-0.071, 0.272] | (-0.389, 0] | (-0.226, 0.078] |
-| (0.143, 0.568] | (0.272, 0.698] | (0, 0.413] | (0.078, 0.453] |
-| (0.568, 1.108] | (0.698, 1.316] | (0.413, 0.977] | (0.453, 0.913] |
-| (1.108, 2.171] | (1.316, 2.334] | (0.977, 1.889] | (0.913, 1.957] |
-| (2.171, 4.182] | (2.334, 3.948] | (1.889, 4.405] | (1.957, 5.0606] |
-| (4.182, 38.786] | (3.948, 15.22] | (4.405, 41.083] | (5.0606, 37.505] |
-
-[详细阅读](http://www.abuquant.com/lecture/lecture_10.html)
+[详细阅读](https://github.com/bbfamily/abu/blob/master/abupy_lecture/10-%E6%AF%94%E7%89%B9%E5%B8%81%E8%8E%B1%E7%89%B9%E5%B8%81%E7%9A%84%E5%9B%9E%E6%B5%8B(ABU%E9%87%8F%E5%8C%96%E4%BD%BF%E7%94%A8%E6%96%87%E6%A1%A3).ipynb)
 
 ### 11: 期货市场的回测
 
@@ -212,9 +279,7 @@ import abupy
 3. 看跌合约的回测
 4. 位移路程比优化策略
 
-![](./img/img9.png)
-
-[详细阅读](http://www.abuquant.com/lecture/lecture_11.html)
+[详细阅读](https://github.com/bbfamily/abu/blob/master/abupy_lecture/11-%E6%9C%9F%E8%B4%A7%E5%B8%82%E5%9C%BA%E7%9A%84%E5%9B%9E%E6%B5%8B(ABU%E9%87%8F%E5%8C%96%E4%BD%BF%E7%94%A8%E6%96%87%E6%A1%A3).ipynb)
 
 ### 12: 机器学习与比特币示例
 
@@ -225,9 +290,7 @@ import abupy
 3. 测试集的验证与非均衡技术
 4. 继承AbuMLPd对数据处理进行封装
 
-![](./img/img10.png)
-
-[详细阅读](http://www.abuquant.com/lecture/lecture_12.html)
+[详细阅读](https://github.com/bbfamily/abu/blob/master/abupy_lecture/12-%E6%9C%BA%E5%99%A8%E5%AD%A6%E4%B9%A0%E4%B8%8E%E6%AF%94%E7%89%B9%E5%B8%81%E7%A4%BA%E4%BE%8B(ABU%E9%87%8F%E5%8C%96%E4%BD%BF%E7%94%A8%E6%96%87%E6%A1%A3).ipynb)
 
 ### 13: 量化技术分析应用
 
@@ -237,9 +300,7 @@ import abupy
 2. 跳空技术分析
 3. 传统技术指标技术分析
 
-![](./img/img11.png)
-
-[详细阅读](http://www.abuquant.com/lecture/lecture_13.html)
+[详细阅读](https://github.com/bbfamily/abu/blob/master/abupy_lecture/13-%E9%87%8F%E5%8C%96%E6%8A%80%E6%9C%AF%E5%88%86%E6%9E%90%E5%BA%94%E7%94%A8(ABU%E9%87%8F%E5%8C%96%E4%BD%BF%E7%94%A8%E6%96%87%E6%A1%A3).ipynb)
 
 ### 14: 量化相关性分析应用
 
@@ -250,9 +311,7 @@ import abupy
 3. 相似相关接口的应用
 4. 自然相关性
 
-![](./img/img12.png)
-
-[详细阅读](http://www.abuquant.com/lecture/lecture_14.html)
+[详细阅读](https://github.com/bbfamily/abu/blob/master/abupy_lecture/14-%E9%87%8F%E5%8C%96%E7%9B%B8%E5%85%B3%E6%80%A7%E5%88%86%E6%9E%90%E5%BA%94%E7%94%A8(ABU%E9%87%8F%E5%8C%96%E4%BD%BF%E7%94%A8%E6%96%87%E6%A1%A3).ipynb)
 
 ### 15: 量化交易和搜索引擎
 
@@ -267,50 +326,7 @@ import abupy
 
 ![](./img/img13.png)
 
-[详细阅读](http://www.abuquant.com/lecture/lecture_15.html)
-
-### 16: UMP主裁交易决策
-
-
-1. 跳空主裁
-2. 价格主裁
-3. 波动主裁
-4. 验证主裁是否称职, 在abu系统中开启主裁拦截模式
-5. 组织裁判进行更复杂的综合裁决
-6. 让裁判自己学习怎么配合，自己做出最正确的判断
-
-![](./img/img14.png)
-
-[详细阅读](http://www.abuquant.com/lecture/lecture_16.html)
-
-### 17: UMP边裁交易决策
-
-1. 角度边裁
-2. 价格边裁
-3. 波动边裁
-4. 综合边裁
-5. 验证边裁是否称职
-6. 在abu系统中开启边裁拦截模式
-
-[详细阅读](http://www.abuquant.com/lecture/lecture_17.html)
-
-### 18: 自定义裁判决策交易
-
-1. 从不同视角训练新的主裁
-2. 从不同视角训练新的边裁
-3. 添加新的视角来录制比赛（记录回测特征）
-4. 主裁使用新的视角来决策交易
-5. 边裁使用新的视角来决策交易
-
-abupy中ump模块的设计目标是：
-
-* 不需要在具体策略中硬编码
-* 不需要人工设定阀值，即且使得代码逻辑清晰
-* 分离基础策略和策略优化监督模块，提高灵活度和适配性
-* 发现策略中隐藏的交易策略问题
-* 可以通过不断的学习新的交易数据
-
-[详细阅读](http://www.abuquant.com/lecture/lecture_18.html)
+[详细阅读](https://github.com/bbfamily/abu/blob/master/abupy_lecture/15-%E9%87%8F%E5%8C%96%E4%BA%A4%E6%98%93%E5%92%8C%E6%90%9C%E7%B4%A2%E5%BC%95%E6%93%8E(ABU%E9%87%8F%E5%8C%96%E4%BD%BF%E7%94%A8%E6%96%87%E6%A1%A3).ipynb)
 
 ### 19: 数据源
 
@@ -324,11 +340,7 @@ abu支持股票、期货、数字货币等多种金融投资品的行情和交�
 6. 接入外部数据源，期货数据源
 7. 接入外部数据源，比特币，莱特币数据源
 
-[详细阅读](http://www.abuquant.com/lecture/lecture_19.html)
-
-
-[更多阿布量化量化技术文章](http://www.abuquant.com/article)
-
+[详细阅读](https://github.com/bbfamily/abu/blob/master/abupy_lecture/19-%E6%95%B0%E6%8D%AE%E6%BA%90(ABU%E9%87%8F%E5%8C%96%E4%BD%BF%E7%94%A8%E6%96%87%E6%A1%A3).ipynb)
 
 关注阿布量化微信公众号: abu_quant
 

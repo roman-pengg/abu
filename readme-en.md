@@ -1,9 +1,5 @@
-<center>
-        <img src="./img/abu_logo.png" alt="" style="vertical-align:middle;padding:10px 20px;"><font size="6" color="black"><b>abu: Redefine Quantitative Trading System </b></font>
-</center>
+![](./img/head.png)
 
-
------------------
 
 #### Abu seeks the intelligent-strategy which be able to explained by of a word.
 
@@ -12,6 +8,87 @@ Abu can help users to improve the strategy automatically, take the initiative to
 Right now, we still writting code by hand, abu is designed to be running complete-automatically in the future, including the entire work-process and strategy itself.
 
 Our expectations : abu users only need to provide some seed strategy, on the basis of these seeds, computer continue to self-learning, self-growth, to build a new strategy which can adjust its parameters  with the time series data.
+
+
+###  🏆 [WEB: https://www.abuquant.com](https://www.abuquant.com)
+
+1. 🇨🇳 [CN symbol list:](https://www.abuquant.com/cn1/cn_symbol_list.html)
+
+	* 🇨🇳 [sh000001 week report:](https://www.abuquant.com/abu_context/output_cn_week1/report/sh000001/index.html)
+	* 🇨🇳 [sh000001 day report:](https://www.abuquant.com/abu_context/output_cn_day1/report/sh000001/index.html)
+
+
+2. 🇺🇸 [US symbol list:](https://www.abuquant.com/us1/us_symbol_list.html)
+
+	* 🇺🇸 [usBABA week report:](https://www.abuquant.com/abu_context/output_us_week1/report/usBABA/index.html)
+
+3. 🚩 [HK symbol list:](https://www.abuquant.com/hk1/hk_symbol_list.html)
+	* 🚩 [hk01810 week report:](https://www.abuquant.com/abu_context/output_hk_week1/report/hk01810/index.html)
+
+4. 📡 [https://www.abuquant.com/find_itl.html](https://www.abuquant.com/find_itl.html)
+
+	* 📐 [Upward triangle consolidation and upward breakthrough:](https://www.abuquant.com/itl_feature1/pattern_90triangle_up_up_break_symbol_list.html)
+	* 🌊 [Wave theory retraces wave c point:](https://www.abuquant.com/itl_feature1/dn_5wr_c_revert_symbol_list.html)
+
+	* ✂️ [Risk of upward trend and downward breakthrough:](https://www.abuquant.com/itl_feature1/trend_breakthrough_risk_symbol_list.html)
+
+	* 🐶 [Point C will rise to point D to complete the downgrade of Saifu:](https://www.abuquant.com/itl_feature1/dn_cypher_xabc_predict_symbol_list.html)
+	* ☯ [Entangled discussion relay ❸ Buy up:](https://www.abuquant.com/itl_feature1/dn_right_tangle_three_symbol_list.html)
+
+
+	* 🚩[Wedge shaped sorting and upward breakthrough:](https://www.abuquant.com/itl_feature1/pattern_wedge_dn_break_symbol_list.html)
+	* 🦇[Bats have reached the point of ascending bats:](https://www.abuquant.com/itl_feature1/up_bat_abcd_regular_symbol_list.html)
+
+	* ☯️[Entangled discussion relay ❷ Buy up:](https://www.abuquant.com/itl_feature1/dn_right_tangle_two_symbol_list.html)
+
+	* 🌊[Wave Theory: Reversal of Waves:](https://www.abuquant.com/itl_feature1/up_5wr_c_revert_symbol_list.html)
+	
+	* ⚔️[Trend line breakthrough opportunity:](https://www.abuquant.com/itl_feature1/trend_breakthrough_chance_symbol_list.html)
+
+
+
+	* ☯️[Entangled discussion relay ❸ Selling downwards:](https://www.abuquant.com/itl_feature1/up_right_tangle_three_symbol_list.html)
+
+	* 🐶[The completion of the D-point of the descending Saifu:](https://www.abuquant.com/itl_feature1/dn_cypher_xabc_predict_symbol_list.html)
+
+	* ▴▲▴[Head, shoulders, top down breakthrough:](https://www.abuquant.com/itl_feature1/trend_support_encounter_dn_symbol_list.html)
+	* ✂️[Strong upward trend, strong support, and possible breakout:](https://www.abuquant.com/itl_feature1/pattern_head_top_break_symbol_list.html)
+
+	* 🌊[Upward pullback wave relay b:](https://www.abuquant.com/itl_feature1/dn_5wr_b_pos_symbol_list.html)
+
+	* 🦊[Complete the reduction of Gali d point:](https://www.abuquant.com/itl_feature1/dn_gartley_abcd_predict_symbol_list.html)
+
+	* ☯️[Entangled discussion relay ❷ Sell downwards:](https://www.abuquant.com/itl_feature1/up_right_tangle_two_symbol_list.html)
+	* ✂️[Strong upward trend, strong support, and possible breakout:](https://www.abuquant.com/itl_feature1/pattern_head_top_break_symbol_list.html)
+
+	* ❐[Falling rectangle achieves the falling target:](https://www.abuquant.com/itl_feature1/pattern_rect_dn_up_target_symbol_list.html)
+
+	* 🌊[Wave theory falling relay c:](https://www.abuquant.com/itl_feature1/up_5wr_c_regular_symbol_list.html)
+
+
+	* 🦀️[The crab's D point has been completed:](https://www.abuquant.com/itl_feature1/up_crab_abcd_predict_symbol_list.html)
+	* ⚑[Flag lowering, sorting and upward breakthrough:](https://www.abuquant.com/itl_feature1/pattern_flag_dn_break_symbol_list.html)
+
+	* ☯[Entanglement reversal ❶ Buy up:](https://www.abuquant.com/itl_feature1/dn_lr_tg_one_symbol_list.html)
+
+	* 🌊[Wave theory rising relay c:](https://www.abuquant.com/itl_feature1/dn_5wr_c_regular_symbol_list.html)
+
+
+	* 🦇[Rising Bat 3rd Rebound Target:](https://www.abuquant.com/itl_feature1/up_bat_hm_t3_symbol_list.html)
+	* 🚩[Rising wedge type achieves the goal of consolidation and decline:](https://www.abuquant.com/itl_feature1/pattern_wedge_up_target_symbol_list.html)
+
+	* ☯[The entanglement center B has just been completed:](https://www.abuquant.com/itl_feature1/up_left_ds_large_tg_one_symbol_list.html)
+
+	
+5. 🅚[K-line composite signal strategy:](https://www.abuquant.com/find_kc.html)
+
+
+	* [Upward Pinbar Combination:](https://www.abuquant.com/kc_feature1/up_pinbar_symbol_list.html)
+	* [downpour:](https://www.abuquant.com/kc_feature1/dn_down_pour_symbol_list.html)
+	* [Low end Wuyang Line:](https://www.abuquant.com/kc_feature1/up_lp_5yang_symbol_list.html)
+
+	* [Rising and carrying six:](https://www.abuquant.com/kc_feature1/up_pregnant_6m_symbol_list.html)
+	* [key stand:](https://www.abuquant.com/kc_feature1/up_1needle_symbol_list.html)
 
 ### Index
 
@@ -125,8 +202,6 @@ A good trading strategy needs a good stock.
 2. run multiple stock-picking factor
 3. faster running with multi-processing
 
-![](./img/img4.png)
-
 [see more](http://www.abuquant.com/lecture/lecture_5.html)
 
 ### 6: Metrics on Backtesting
@@ -137,7 +212,6 @@ Good metric give you right direction.
 2. visualization on metrics
 3. expand self-custom metric
 
-![](./img/img5.png)
 
 [see more](http://www.abuquant.com/lecture/lecture_6.html)
 
@@ -158,8 +232,6 @@ By customizable scoring, seek the best parameter for strategy.Like:how many days
 1. backtesting on A-Stock example
 2. dealing with price limit
 3. analyze multiple trading result
-
-![](./img/img6.png)
 
 [see more](http://www.abuquant.com/lecture/lecture_8.html)
 
@@ -185,20 +257,6 @@ By customizable scoring, seek the best parameter for strategy.Like:how many days
 * litecoin loss10: [-28.48, -4.1]， top10: (4.405, 41.083]
 * litecoin recent 1 year risk lowerloss10: [-22.823, -3.229] 高收益top10: (5.0606, 37.505]
 
-
-| btcchange | btc365change | ltcchange | ltc365change |
-| ------| ------ | ------ | ------ |
-| [-26.895, -3.284] | [-16.273, -2.783] | [-28.48, -4.1] | [-22.823, -3.229] |
-| (-3.284, -1.547] | (-2.783, -1.056] | (-4.1, -2.022] | (-3.229, -1.375] |
-| (-1.547, -0.8] | (-1.056, -0.424] | (-2.022, -0.922] | (-1.375, -0.655] |
-| (-0.8, -0.224] | (-0.424, -0.071] | (-0.922, -0.389] | (-0.655, -0.226] |
-| (-0.224, 0.143] | (-0.071, 0.272] | (-0.389, 0] | (-0.226, 0.078] |
-| (0.143, 0.568] | (0.272, 0.698] | (0, 0.413] | (0.078, 0.453] |
-| (0.568, 1.108] | (0.698, 1.316] | (0.413, 0.977] | (0.453, 0.913] |
-| (1.108, 2.171] | (1.316, 2.334] | (0.977, 1.889] | (0.913, 1.957] |
-| (2.171, 4.182] | (2.334, 3.948] | (1.889, 4.405] | (1.957, 5.0606] |
-| (4.182, 38.786] | (3.948, 15.22] | (4.405, 41.083] | (5.0606, 37.505] |
-
 [see more](http://www.abuquant.com/lecture/lecture_10.html)
 
 ### 11: Backtesting on Futures Market
@@ -207,8 +265,6 @@ By customizable scoring, seek the best parameter for strategy.Like:how many days
 2. backtest bullish contract
 3. backtest bearish contract
 4. optimize strategy by displacement ratio
-
-![](./img/img9.png)
 
 [see more](http://www.abuquant.com/lecture/lecture_11.html)
 
@@ -221,8 +277,6 @@ How to use machine learning technology correctly in quantitative trading of inve
 3. verification and unbalanced technology of test set
 4. inherits AbuMLPd to encapsulate data processing
 
-![](./img/img10.png)
-
 [see more](http://www.abuquant.com/lecture/lecture_12.html)
 
 ### 13: Quantitative Technology Analysis and Applications
@@ -232,8 +286,6 @@ Technical analysis is based on three assumptions:1. The market discounts everyth
 1. resistance line, support line automatically drawn
 2. analysis of gap
 3. analysis of traditional technical metric
-
-![](./img/img11.png)
 
 [see more](http://www.abuquant.com/lecture/lecture_13.html)
 
@@ -245,8 +297,6 @@ Behind similar investment trend, it is often with similar investment groups.
 2. distance measurement and similarity
 3. application of similarity interface
 4. natural correlation
-
-![](./img/img12.png)
 
 [see more](http://www.abuquant.com/lecture/lecture_14.html)
 
@@ -275,7 +325,6 @@ Search and analyze failed orders generated by strategy,  intercept possible fail
 5. organize referees to make more complex comprehensive decisions
 6. let the referee learn how to cooperate with their own to make the most correct judgments
 
-![](./img/img14.png)
 
 [see more](http://www.abuquant.com/lecture/lecture_16.html)
 
